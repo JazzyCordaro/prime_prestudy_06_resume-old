@@ -1,0 +1,91 @@
+h1 {
+  font-family: Noteworthy, serif;
+}
+body {
+  font-family: Century Gothic, serif;
+  border: 2px solid black; 
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+  line-height: 26px;
+ background-color: #fff8dc;
+}
+.me img {
+  border: 2px solid blue;
+  width:170px;
+  height:170px;
+ display:block;
+ margin: auto;
+ box-shadow: 10px 10px 5px grey;
+}
+
+
+ul li {
+  font-size: 18px;
+}
+
+.header {
+  padding: 10px 10px 10px 10px;
+  background-color: #ffff00;
+  color: #0000ff;
+  ont-family: Century Gothic, serif;
+  text-decoration: underline;
+  padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
+  text-shadow: 2px 2px #191970;
+  box-shadow: 2px 2px #000000;
+}
+
+.headera {
+   padding: 10px 10px 10px 10px;
+  background-color: #ffff00;
+  color: #0000ff;
+  ont-family: Century Gothic, serif;
+  text-decoration: underline;
+  padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
+  text-shadow: 2px 2px #191970;
+  box-shadow: 2px 2px #000000;
+}
+
+.headerb {
+  color: #0000ff;
+  background-color: #ffff00;
+  ont-family: Century Gothic, serif;
+  text-decoration: underline;
+  padding-top:6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
+  text-shadow: 2px 2px #191970;
+  box-shadow: 2px 2px #000000;
+}
+
+.profile {
+  font-size: 18px;
+  width: 500px;
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+  margin: 30px auto 0 auto;
+}
+
+.info {
+  font-size: 18px;
+  width: 500px;
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+  margin: 30px auto 0 auto;
+ }
+
+.work {
+  font-size: 18px;
+  width: 500px;
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+  margin: 30px auto 0 auto;
+}
