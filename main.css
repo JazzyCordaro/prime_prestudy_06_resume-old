@@ -27,7 +27,7 @@ ul li {
 
 .header {
   padding: 10px 10px 10px 10px;
-  background-color: #ffff00;
+  background-color: #000000;
   color: #0000ff;
   ont-family: Century Gothic, serif;
   text-decoration: underline;
@@ -41,7 +41,7 @@ ul li {
 
 .headera {
    padding: 10px 10px 10px 10px;
-  background-color: #ffff00;
+  background-color: #000000;
   color: #0000ff;
   ont-family: Century Gothic, serif;
   text-decoration: underline;
@@ -55,7 +55,7 @@ ul li {
 
 .headerb {
   color: #0000ff;
-  background-color: #ffff00;
+  background-color: #000000;
   ont-family: Century Gothic, serif;
   text-decoration: underline;
   padding-top:6px;
